@@ -1,0 +1,2 @@
+# Hack
+Hackerliği bilen katılabilir
